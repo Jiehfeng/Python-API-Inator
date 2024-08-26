@@ -21,3 +21,10 @@ Create a python environment in the root directory (not included in the below scr
 ## Run
 
 Run the main.py file in the root directory.
+
+
+
+
+## Extras
+
+A gitignore.txt file is included in the misc folder, you can copy the contents to your .gitignore file.
